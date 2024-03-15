@@ -1,0 +1,13 @@
+.form_control input{
+  heigt:40px;
+  poadding : 0 8px;
+}
+.form_control textarea{
+  poadding : 8px;
+}
+.form_control label{
+  font-size :14px;
+  position : absolute;
+  padding:o 10px
+  backgroundcolor : white;
+}
