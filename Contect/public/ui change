@@ -1,0 +1,8 @@
+left name;
+left email;
+left text;
+const onSubmit=(event)=>[
+event.preventDefault();
+name=event.target[0].value;
+email=event.target[0].value;
+text=event.target[0].value;
